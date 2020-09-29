@@ -1,4 +1,4 @@
-#Here Maps API for JavaScript examples
+# Here Maps API for JavaScript examples
 
 This repository holds JavaScript based examples using the **HERE Maps API for JavaScript**. More information about the API can be found on [developer.here.com](https://developer.here.com/develop/javascript-api) under the JavaScript APIs section.
 
